@@ -5,7 +5,7 @@
 Your task is to write code to read in an Excel file continaing sediment 
 grain analysis. The script should calcualte grain statistics (such as kurtosis, 
 sorting, etc) and plot a figure which displayed the grainsizes, mean grain size, 
-kurtosis, sorting and skew, as a funciton of depth throgh the core. 
+kurtosis, sorting and skew, as a function of depth through the core. 
 
 ![Example output](example_output.png)
 
